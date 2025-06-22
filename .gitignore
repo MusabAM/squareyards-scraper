@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Output files
+squareyards_listings.csv
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# ChromeDriver binary
+chromedriver.exe
+chromedriver
+
+# Environment variables (if any)
+.env
