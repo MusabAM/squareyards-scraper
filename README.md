@@ -26,5 +26,5 @@ SquareYards listings load dynamically and require scrolling and pagination. This
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/squareyards-scraper.git
+   git clone https://github.com/MusabAM/squareyards-scraper.git
    cd squareyards-scraper
